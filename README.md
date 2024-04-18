@@ -2,6 +2,9 @@
 
 Este projeto é uma aplicação simples para gerenciamento de filas de atendimento. Ele foi desenvolvido utilizando JavaScript.
 
+![image](https://github.com/Dryzin/FilaAtendimaneto/assets/102194839/cf3c3217-49a2-46c9-9aa1-a5c6710b2db1)
+
+
 ## Funções Principais
 
 ### `adicionarElemento()`
@@ -13,8 +16,14 @@ Essa função remove o primeiro elemento da fila de atendimentos. Primeiro, veri
 ### `buscarCpf()`
 Essa função permite buscar um atendimento na fila pelo CPF. Obtém o CPF digitado pelo usuário e percorre a fila procurando um atendimento com o mesmo CPF. Se encontrar, mostra um alerta com a posição do atendimento na fila. Caso contrário, mostra um alerta informando que o CPF não foi encontrado.
 
+![image](https://github.com/Dryzin/FilaAtendimaneto/assets/102194839/1f31f76c-02ef-4a61-a777-289816aaa867)
+
+
 ### `mostrarMensagemRemocao(pessoaAtendida)`
 Essa função atualiza o elemento na página HTML com id "mensagem-remocao" com a mensagem de remoção do atendimento.
+
+![image](https://github.com/Dryzin/FilaAtendimaneto/assets/102194839/630ab6ad-eb7e-4cfa-a6e1-dd8d0c63f723)
+
 
 ### `atualizarFila()`
 Essa função atualiza a exibição da fila na página HTML, mostrando os atendimentos presentes na fila.
