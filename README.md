@@ -1,5 +1,7 @@
 # Projeto FilaAtendimaneto
 
+[Visualização do projeto Online](https://fila-atendimanetojs.vercel.app/)
+
 Este projeto é uma aplicação simples para gerenciamento de filas de atendimento. Ele foi desenvolvido utilizando JavaScript.
 
 ![image](https://github.com/Dryzin/FilaAtendimaneto/assets/102194839/cf3c3217-49a2-46c9-9aa1-a5c6710b2db1)
